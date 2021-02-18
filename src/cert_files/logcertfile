@@ -1,0 +1,94 @@
+CONNECTED(000001A4)
+---
+Certificate chain
+ 0 s:C = US, ST = California, L = Walnut Creek, O = Lucas Garron Torres, CN = *.badssl.com
+   i:C = US, O = DigiCert Inc, CN = DigiCert SHA2 Secure Server CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGqDCCBZCgAwIBAgIQCvBs2jemC2QTQvCh6x1Z/TANBgkqhkiG9w0BAQsFADBN
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMScwJQYDVQQDEx5E
+aWdpQ2VydCBTSEEyIFNlY3VyZSBTZXJ2ZXIgQ0EwHhcNMjAwMzIzMDAwMDAwWhcN
+MjIwNTE3MTIwMDAwWjBuMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5p
+YTEVMBMGA1UEBxMMV2FsbnV0IENyZWVrMRwwGgYDVQQKExNMdWNhcyBHYXJyb24g
+VG9ycmVzMRUwEwYDVQQDDAwqLmJhZHNzbC5jb20wggEiMA0GCSqGSIb3DQEBAQUA
+A4IBDwAwggEKAoIBAQDCBOz4jO4EwrPYUNVwWMyTGOtcqGhJsCK1+ZWesSssdj5s
+wEtgTEzqsrTAD4C2sPlyyYYC+VxBXRMrf3HES7zplC5QN6ZnHGGM9kFCxUbTFocn
+n3TrCp0RUiYhc2yETHlV5NFr6AY9SBVSrbMo26r/bv9glUp3aznxJNExtt1NwMT8
+U7ltQq21fP6u9RXSM0jnInHHwhR6bCjqN0rf6my1crR+WqIW3GmxV0TbChKr3sMP
+R3RcQSLhmvkbk+atIgYpLrG6SRwMJ56j+4v3QHIArJII2YxXhFOBBcvm/mtUmEAn
+hccQu3Nw72kYQQdFVXz5ZD89LMOpfOuTGkyG0cqFAgMBAAGjggNhMIIDXTAfBgNV
+HSMEGDAWgBQPgGEcgjFh1S8o541GOLQs4cbZ4jAdBgNVHQ4EFgQUne7Be4ELOkdp
+cRh9ETeTvKUbP/swIwYDVR0RBBwwGoIMKi5iYWRzc2wuY29tggpiYWRzc2wuY29t
+MA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIw
+awYDVR0fBGQwYjAvoC2gK4YpaHR0cDovL2NybDMuZGlnaWNlcnQuY29tL3NzY2Et
+c2hhMi1nNi5jcmwwL6AtoCuGKWh0dHA6Ly9jcmw0LmRpZ2ljZXJ0LmNvbS9zc2Nh
+LXNoYTItZzYuY3JsMEwGA1UdIARFMEMwNwYJYIZIAYb9bAEBMCowKAYIKwYBBQUH
+AgEWHGh0dHBzOi8vd3d3LmRpZ2ljZXJ0LmNvbS9DUFMwCAYGZ4EMAQIDMHwGCCsG
+AQUFBwEBBHAwbjAkBggrBgEFBQcwAYYYaHR0cDovL29jc3AuZGlnaWNlcnQuY29t
+MEYGCCsGAQUFBzAChjpodHRwOi8vY2FjZXJ0cy5kaWdpY2VydC5jb20vRGlnaUNl
+cnRTSEEyU2VjdXJlU2VydmVyQ0EuY3J0MAwGA1UdEwEB/wQCMAAwggF+BgorBgEE
+AdZ5AgQCBIIBbgSCAWoBaAB2ALvZ37wfinG1k5Qjl6qSe0c4V5UKq1LoGpCWZDaO
+HtGFAAABcQhGXioAAAQDAEcwRQIgDfWVBXEuUZC2YP4Si3AQDidHC4U9e5XTGyG7
+SFNDlRkCIQCzikrA1nf7boAdhvaGu2Vkct3VaI+0y8p3gmonU5d9DwB2ACJFRQdZ
+VSRWlj+hL/H3bYbgIyZjrcBLf13Gg1xu4g8CAAABcQhGXlsAAAQDAEcwRQIhAMWi
+Vsi2vYdxRCRsu/DMmCyhY0iJPKHE2c6ejPycIbgqAiAs3kSSS0NiUFiHBw7QaQ/s
+GO+/lNYvjExlzVUWJbgNLwB2AFGjsPX9AXmcVm24N3iPDKR6zBsny/eeiEKaDf7U
+iwXlAAABcQhGXnoAAAQDAEcwRQIgKsntiBqt8Au8DAABFkxISELhP3U/wb5lb76p
+vfenWL0CIQDr2kLhCWP/QUNxXqGmvr1GaG9EuokTOLEnGPhGv1cMkDANBgkqhkiG
+9w0BAQsFAAOCAQEA0RGxlwy3Tl0lhrUAn2mIi8LcZ9nBUyfAcCXCtYyCdEbjIP64
+xgX6pzTt0WJoxzlT+MiK6fc0hECZXqpkTNVTARYtGkJoljlTK2vAdHZ0SOpm9OT4
+RLfjGnImY0hiFbZ/LtsvS2Zg7cVJecqnrZe/za/nbDdljnnrll7C8O5naQuKr4te
+uice3e8a4TtviFwS/wdDnJ3RrE83b1IljILbU5SV0X1NajyYkUWS7AnOmrFUUByz
+MwdGrM6kt0lfJy/gvGVsgIKZocHdedPeECqAtq7FAJYanOsjNN9RbBOGhbwq0/FP
+CC01zojqS10nGowxzOiqyB4m6wytmzf0QwjpMw==
+-----END CERTIFICATE-----
+subject=C = US, ST = California, L = Walnut Creek, O = Lucas Garron Torres, CN = *.badssl.com
+
+issuer=C = US, O = DigiCert Inc, CN = DigiCert SHA2 Secure Server CA
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 2414 bytes and written 455 bytes
+Verification error: unable to verify the first certificate
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 083649A90FD0F54B324259DB4B187AFD6A2339263D4D5AF5A2ED1FF885B2B5CB
+    Session-ID-ctx: 
+    Master-Key: 5D6FF261D32B202DAFE7C8C0AA79ED19349235128727B2D84E5BA62D9AA371448F7F74AA3431A11D5B0D3908ED21A79B
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 16 01 a9 02 30 33 68 0e-cf 6f bd 25 29 d4 84 0f   ....03h..o.%)...
+    0010 - 87 3e ac 8d 0f 5a 82 d7-0b fa 90 46 a6 f7 6f 66   .>...Z.....F..of
+    0020 - a6 c6 77 e1 27 b9 eb 38-cb de 3a 0d 3f 48 27 0b   ..w.'..8..:.?H'.
+    0030 - 0e cf 51 a6 1c 91 ee d2-0b 5f 0c 4c f7 b4 4d 20   ..Q......_.L..M 
+    0040 - 71 27 88 c6 37 d5 bc 87-d0 2e f6 54 12 3b fb e9   q'..7......T.;..
+    0050 - 22 f3 01 17 9d c1 dc 35-97 5d 38 a4 5b a0 d5 40   "......5.]8.[..@
+    0060 - 6d cc 6a 73 91 21 a9 09-b9 a4 64 56 89 5f 6b 18   m.js.!....dV._k.
+    0070 - 17 67 ca b8 9e 46 aa c2-d3 04 37 a7 91 e7 23 b0   .g...F....7...#.
+    0080 - 99 ea 3b f1 db 43 0d 59-8d f6 de 6c 67 6c dc b2   ..;..C.Y...lgl..
+    0090 - 8e a4 bc 7d e0 4d e0 12-12 cd 9a e2 73 7c 79 3b   ...}.M......s|y;
+    00a0 - c2 ff 2e 00 34 2e ef f7-8b 95 27 d7 ee 3e 50 29   ....4.....'..>P)
+    00b0 - b8 fc 11 24 f1 1e 74 53-8c 75 d3 8e 2d fe a2 f7   ...$..tS.u..-...
+    00c0 - e8 39 ba 10 57 12 34 a3-67 75 2a 90 8b 25 b4 05   .9..W.4.gu*..%..
+
+    Start Time: 1611291049
+    Timeout   : 7200 (sec)
+    Verify return code: 21 (unable to verify the first certificate)
+    Extended master secret: no
+---
