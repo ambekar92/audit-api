@@ -8,7 +8,7 @@ const config = require('./config.js');
 // Decleration of controller 
 const qtest = require('./controllers/qtest.js')
 
-// App Releated Sapce
+// App Releated Sapce test
 app.use(bodyParser.json());
 app.use(
     bodyParser.urlencoded({

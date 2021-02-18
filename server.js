@@ -8,6 +8,7 @@ const port = config.app.port;
 //     console.log('App running on port', port);
 // })
 
-var server = app.listen(config.app.port, function() {
-    console.info('Application listening at http://localhost:' + config.app.port);
+var server = app.listen(config.app.port,config.app.host function() {
+    console.log("Server started.......");
+    console.info('Application listening at http://'+config.app.host+':'+ config.app.port);
 });
