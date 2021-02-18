@@ -23,7 +23,7 @@ app.use(
 
 // Root Path
 app.get('/', (request, response) => {
-    response.json({ info: 'Santhosh Ambekar' })
+    response.json({ info: 'Santhosh Ambekar - Chitradurga' })
 })
 
 // Test

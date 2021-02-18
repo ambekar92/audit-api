@@ -1,7 +1,7 @@
 var config = {
     app: {
         host:'0.0.0.0',
-        port: '9011'
+        port: process.env.PORT || 3000
     },
     qtest: {
         access_token: '9f38d1f4-b4a1-4d3b-9219-d18fa162fb1f',

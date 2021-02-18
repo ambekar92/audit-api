@@ -8,7 +8,8 @@ const port = config.app.port;
 //     console.log('App running on port', port);
 // })
 
-var server = app.listen(config.app.port,config.app.host function() {
+var server = app.listen(config.app.port,config.app.host, function() {
     console.log("Server started.......");
+    console.log('Express server listening on %d, in %s mode', config.port, app.get('env'));
     console.info('Application listening at http://'+config.app.host+':'+ config.app.port);
 });
