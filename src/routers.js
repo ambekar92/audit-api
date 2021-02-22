@@ -6,7 +6,9 @@ const app = express();
 const config = require('./config.js');
 
 // Decleration of controller 
-const qtest = require('./controllers/qtest.js')
+const qtest = require('./controllers/qtest.js');
+const auditImpl = require('./controllers/audit');
+var audit = new auditImpl();
 
 // App Releated Sapce test
 app.use(bodyParser.json());
@@ -31,5 +33,8 @@ app.get('/getProjects', qtest.getProjects);
 app.get('/getUsers', qtest.getUsers);
 app.get('/getModules', qtest.getModules);
 app.get('/createModules', qtest.createModules);
+
+
+app.get('/testing', audit.testing);
 
 module.exports = app;

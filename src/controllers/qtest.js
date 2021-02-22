@@ -9,8 +9,8 @@ const _ = require('underscore');
 rootCas.addFile(path.resolve(__dirname,  '../tls-ca-bundle.pem'));
 const httpsAgent = new https.Agent({ ca: rootCas });
 
-console.log('Checking Connection');
-console.log('Access Token --', `Bearer ${config.qtest.access_token}`);
+// console.log('Checking Connection');
+// console.log('Access Token --', `Bearer ${config.qtest.access_token}`);
 
 const getUsers = async(req, res) => {
     try {
